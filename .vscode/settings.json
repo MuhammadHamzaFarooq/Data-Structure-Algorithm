@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Simples Arrays",
         "Practice  Questions",
         "Pattern Questions",
         "Functions Questions",
-        "Simples Arrays"
+        "Basic Of Time Complexity And Space Complexity/Exercise01"
     ]
 }
